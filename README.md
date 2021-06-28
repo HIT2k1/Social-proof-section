@@ -53,6 +53,10 @@ Users should be able to:
 }
 ```
 
+### Useful resources
+
+https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css - This is an amazing article which helped me finally change the src attribute in HTML.
+
 ## Author
 
 - Frontend Mentor - @HIT2k1
